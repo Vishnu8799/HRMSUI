@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Header() {
-  const username = "Vishnu AnandKannan"; // Change later dynamically
+  const username = "Vishnu  AnandKannan"; // Change later dynamically
 
   return (
     <div style={styles.header}>
